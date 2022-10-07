@@ -5,7 +5,7 @@ html {
 }
 
 .header {
-    background-image: url(../challenge3/loopstudios-landing-page-main/images/desktop/image-hero.jpg);
+    background-image: url(./loopstudios-landing-page-main/images/desktop/image-hero.jpg);
     background-size: cover;
     height: 90vh;
     display: flex;
@@ -120,7 +120,7 @@ form {
     padding: 0%;
 }
 #p1{
-    background-image: url(../challenge3/loopstudios-landing-page-main/images/desktop/image-deep-earth.jpg);
+    background-image: url(./loopstudios-landing-page-main/images/desktop/image-deep-earth.jpg);
     width: 40vh;
     height: 60vh;
 }
@@ -130,7 +130,7 @@ form {
     color: white;
 }
 #p2{
-    background-image: url(../challenge3/loopstudios-landing-page-main/images/desktop/image-night-arcade.jpg);
+    background-image: url(./loopstudios-landing-page-main/images/desktop/image-night-arcade.jpg);
     width: 40vh;
     height: 60vh;
 }
@@ -140,7 +140,7 @@ form {
     color: white;
 }
 #p3{
-    background-image: url(../challenge3/loopstudios-landing-page-main/images/desktop/image-soccer-team.jpg);
+    background-image: url(./loopstudios-landing-page-main/images/desktop/image-soccer-team.jpg);
     width: 40vh;
     height: 60vh;
 }
@@ -150,7 +150,7 @@ form {
     color: white;
 }
 #p4{
-    background-image: url(../challenge3/loopstudios-landing-page-main/images/desktop/image-grid.jpg);
+    background-image: url(./loopstudios-landing-page-main/images/desktop/image-grid.jpg);
     width: 40vh;
     height: 60vh;
 }
@@ -160,7 +160,7 @@ form {
     color: white;
 }
 #o1{
-    background-image: url(../challenge3/loopstudios-landing-page-main/images/desktop/image-from-above.jpg);
+    background-image: url(./loopstudios-landing-page-main/images/desktop/image-from-above.jpg);
     width: 40vh;
     height: 60vh;
 }
@@ -170,7 +170,7 @@ form {
     color: white;
 }
 #o2{
-    background-image: url(../challenge3/loopstudios-landing-page-main/images/desktop/image-pocket-borealis.jpg);
+    background-image: url(./loopstudios-landing-page-main/images/desktop/image-pocket-borealis.jpg);
     width: 40vh;
     height: 60vh;
 }
@@ -180,7 +180,7 @@ form {
     color: white;
 }
 #o3{
-    background-image: url(../challenge3/loopstudios-landing-page-main/images/desktop/image-curiosity.jpg);
+    background-image: url(./loopstudios-landing-page-main/images/desktop/image-curiosity.jpg);
     width: 40vh;
     height: 60vh;
 }
@@ -190,7 +190,7 @@ form {
     color: white;
 }
 #o4{
-    background-image: url(../challenge3/loopstudios-landing-page-main/images/desktop/image-fisheye.jpg);
+    background-image: url(./loopstudios-landing-page-main/images/desktop/image-fisheye.jpg);
     width: 40vh;
     height: 60vh;
 }
@@ -320,7 +320,7 @@ padding-left: 70px;
 
 @media screen and (max-width:800px) {
     .header {
-        background-image: url(../challenge3/loopstudios-landing-page-main/images/mobile/image-hero.jpg);
+        background-image: url(./loopstudios-landing-page-main/images/mobile/image-hero.jpg);
     }
 
 
