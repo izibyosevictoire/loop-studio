@@ -1,0 +1,301 @@
+body,
+html {
+    margin: 0px;
+    padding: 0px;
+}
+
+.header {
+    background-image: url(../challenge3/loopstudios-landing-page-main/images/desktop/image-hero.jpg);
+    background-size: cover;
+    height: 90vh;
+    display: flex;
+}
+
+.header img {
+    position: absolute;
+    margin-left: 13%;
+    margin-top: 15px;
+}
+
+.header ul {
+    display: flex;
+    margin-right: 60px;
+    margin-left: 40%;
+}
+
+.header ul li {
+    justify-content: space-between;
+    gap: 4px;
+    text-align: center;
+    list-style-type: none;
+    text-decoration: none;
+}
+
+.header ul li a {
+    padding: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+.header ul img {
+    margin-left: 450px;
+    margin-top: 4px;
+    display: none;
+}
+
+form {
+    border: white solid;
+    height: 30vh;
+    width: 200px;
+    ;
+    margin-top: 90%;
+    margin-left: 50%;
+    justify-content: space-between;
+}
+
+.words h3 {
+    padding: 10px;
+    color: white;
+    font-family: 'Alata', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+
+.container1 {
+    margin: 2rem;
+    height: 100vh;
+    display: flex;
+    /* grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr; */
+    margin: 0%;
+    margin-left: 13%;
+    align-items: flex-end;
+    justify-content: space-between;
+}
+
+#box1 h2 {
+    font-family: 'Alata', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+}
+#box1{
+    width: 65%;
+    position: relative;
+    
+}
+.pics {
+    margin-left: 12%;
+    color: black;
+    font-weight: bold;
+    position: absolute;
+    font-family: 'Alata', sans-serif;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.pics h2 {
+    position: absolute;
+    margin-top: 5%;
+}
+
+.pics button {
+    margin-left: 1000px;
+    background-color: black;
+    width: 90px;
+    margin-top: 5%;
+}
+
+.pics button a {
+    color: white;
+    text-decoration: none;
+}
+
+.pictures {
+    display: flex;
+    flex-direction: row;
+    margin-left: 50px;
+    justify-content: space-evenly;
+    margin-left: 10%;
+    background-color: hsl(0, 0%, 100%);
+    margin-top: 100px;
+    margin-right: 60px;
+    padding: 0%;
+}
+#p1{
+    background-image: url(../challenge3/loopstudios-landing-page-main/images/desktop/image-deep-earth.jpg);
+    width: 40vh;
+    height: 60vh;
+}
+#p1 h3{
+    margin-top: 52vh;
+    padding-left: 30px;
+    color: white;
+}
+#p2{
+    background-image: url(../challenge3/loopstudios-landing-page-main/images/desktop/image-deep-earth.jpg);
+    width: 40vh;
+    height: 60vh;
+}
+#p2 h3{
+    margin-top: 52vh;
+    padding-left: 30px;
+    color: white;
+}
+#p3{
+    background-image: url(../challenge3/loopstudios-landing-page-main/images/desktop/image-deep-earth.jpg);
+    width: 40vh;
+    height: 60vh;
+}
+#p3 h3{
+    margin-top: 52vh;
+    padding-left: 30px;
+    color: white;
+}
+#p4{
+    background-image: url(../challenge3/loopstudios-landing-page-main/images/desktop/image-deep-earth.jpg);
+    width: 40vh;
+    height: 60vh;
+}
+#p4 h3{
+    margin-top: 52vh;
+    padding-left: 30px;
+    color: white;
+}
+#o1{
+    background-image: url(../challenge3/loopstudios-landing-page-main/images/desktop/image-deep-earth.jpg);
+    width: 40vh;
+    height: 60vh;
+}
+#o2 h3{
+    margin-top: 52vh;
+    padding-left: 30px;
+    color: white;
+}
+#o3{
+    background-image: url(../challenge3/loopstudios-landing-page-main/images/desktop/image-deep-earth.jpg);
+    width: 40vh;
+    height: 60vh;
+}
+#o3 h3{
+    margin-top: 52vh;
+    padding-left: 30px;
+    color: white;
+}
+#o4{
+    background-image: url(../challenge3/loopstudios-landing-page-main/images/desktop/image-deep-earth.jpg);
+    width: 40vh;
+    height: 60vh;
+}
+#o4 h3{
+    margin-top: 52vh;
+    padding-left: 30px;
+    color: white;
+}
+
+#box2{
+    background: white;
+    height: 200px;
+    width: 50%;
+    position: relative;
+    margin-left: -500px;
+}
+#box2 h2{
+margin-left: 20px;
+}
+.other{
+    display: flex;
+    flex-direction: row;
+    margin-left: 50px;
+    justify-content: space-evenly;
+    margin-left: 10%;
+    background-color: hsl(0, 0%, 100%);
+    margin-top: 100px;
+    margin-right: 60px;
+    padding: 0%;
+}
+.footer{
+    background-color:black;
+    display: flex;
+    margin-top: 10%;
+    width: 100%;
+    height: 30vh;
+}
+.footer img{
+    position: absolute;
+    margin-left: 5%;
+    margin-top: 15px;
+}
+.footer ul {
+    margin-right: 50px;
+    margin-left: 50px;
+    display: flex;
+    margin-top: 50px;
+}
+.footer ul li{
+    justify-content: space-between;
+    gap: 4px;
+    list-style-type: none;
+    text-decoration: none; 
+    margin-top: 20px;
+}
+.footer ul li a{
+    padding: 20px;
+    text-decoration: none;
+    color: white;
+}
+.footer p{
+    color: white;
+    margin-left: 30%;
+    margin-top: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (max-width:800px) {
+    .header {
+        background-image: url(../challenge3/loopstudios-landing-page-main/images/mobile/image-hero.jpg);
+    }
+
+
+}
